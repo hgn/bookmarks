@@ -1,11 +1,39 @@
 {
 "links" :
 [
+
+
 {
   "title" : "TLB and Pagewalk Coherence in x86 Processors",
   "link"  : "http://blog.stuffedcow.net/2015/08/pagewalk-coherence/",
-  "tags"  : [ "tlb", "cache", "x86", "paging" ],
-  "cat"   : "programming",
+  "tags"  : [ "tlb", "cache", "x86", "paging", "programming" ],
+  "cat"   : "programming"
+},
+{
+  "title" : "How Google Invented An Amazing Datacenter Network Only They Could Create",
+  "link"  : "http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html/",
+  "tags"  : [ "google", "datacenter", "open-network-summit", "networking" ],
+  "cat"   : "networking"
+},
+{
+  "title" : "Getting Garbage Collection for Free",
+  "link"  : "http://v8project.blogspot.de/2015/08/getting-garbage-collection-for-free.html",
+  "tags"  : [ "gc", "javascript", "v8" ],
+  "cat"   : "networking"
+},
+{
+  "title" : "Building a desktop application with Electron",
+  "link"  : "https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658",
+  "tags"  : [ "electron", "javascript", "programming" ],
+  "cat"   : "programming"
+},
+{
+  "title" : "Go and Rust — objects without class",
+  "link"  : "https://lwn.net/Articles/548560/",
+  "tags"  : [ "golang", "rust", "oo", "programming" ],
+  "cat"   : "programming"
 }
+
+
 ]
 }
