@@ -3629,7 +3629,7 @@
   "date"  : "2009-08-17T16:55:27.000Z"
 },
 {
-  "title" : ""Why is this Web Page coming up so slow? Investigating the Loss of SYN Packets",
+  "title" : "Why is this Web Page coming up so slow? Investigating the Loss of SYN Packets",
   "link"  : "http://www.welzl.at/research/publications/networking2009.pdf",
   "tags"  : ["networking", "performance", "tcp", "http", "measurement", "ip", "aachen", "filetype:pdf", "media:document"],
   "date"  : "2009-08-17T00:57:23.000Z"
