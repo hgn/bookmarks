@@ -42,6 +42,7 @@
 {
   "title" : "Internet Routing and Traffic Engineering",
   "link"  : "http://www.awsarchitectureblog.com/2014/12/internet-routing.html",
+  "tags"  : ["ietf", "routing"],
   "date"  : "2015-01-03T18:10:52.000Z"
 },
 {
@@ -69,7 +70,7 @@
   "date"  : "2014-08-06T11:49:35.000Z"
 },
 {
-  "title" : "Bitly: Lessons Learned Building a Distributed System that Handles 6 Billion Clicks a Month - High Scalability -",
+  "title" : "Bitly: Lessons Learned Building a Distributed System that Handles 6 Billion Clicks Month - High Scalability -",
   "link"  : "http://highscalability.com/blog/2014/7/14/bitly-lessons-learned-building-a-distributed-system-that-han.html",
   "tags"  : ["bitly", "scaling", "web", "backend", "optimization", "scale"],
   "date"  : "2014-07-15T00:15:29.000Z"
@@ -551,6 +552,7 @@
 {
   "title" : "Anatomy of a Program in Memory : Gustavo Duarte",
   "link"  : "http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory",
+  "tags"  : [""],
   "date"  : "2013-12-09T21:54:34.000Z"
 },
 {
@@ -887,7 +889,7 @@
   "date"  : "2013-02-28T16:50:09.000Z"
 },
 {
-  "title" : "RFC 6875 - The P2P Network Experiment Council\x27s Activities and Experiments with Application-Layer Traffic Optimization (ALTO) in Japan",
+  "title" : "RFC 6875 - The P2P Network Experiment Councils Activities and Experiments with Application-Layer Traffic Optimization (ALTO) in Japan",
   "link"  : "http://tools.ietf.org/html/rfc6875",
   "tags"  : ["alto", "p2p", "rfc", "ietf"],
   "date"  : "2013-02-25T16:57:44.000Z"
@@ -1727,7 +1729,7 @@
   "date"  : "2011-10-26T17:58:06.000Z"
 },
 {
-  "title" : "RFC 6281 - Understanding Apple\x27s Back to My Mac (BTMM) Service",
+  "title" : "RFC 6281 - Understanding Apples Back to My Mac (BTMM) Service",
   "link"  : "http://tools.ietf.org/html/rfc6281",
   "tags"  : ["btmm", "mac", "apple", "rfc", "dns", "toread", "networking"],
   "date"  : "2011-10-24T01:19:14.000Z"
@@ -3559,7 +3561,7 @@
 {
   "title" : "Videoclimb.com, The best climbing videos on the net",
   "link"  : "http://www.videoclimb.com/",
-  "tags"  : ["video", "climbing", "klettern", "videos", "sport", "vid\u00e9os", "videoclimb", "escalada", "bouldering", "escalade"],
+  "tags"  : ["video", "climbing", "klettern", "videos", "sport", "videoclimb", "escalada", "bouldering", "escalade"],
   "date"  : "2009-10-25T23:42:24.000Z"
 },
 {
@@ -4296,7 +4298,7 @@
 {
   "title" : "Klettern im Klettergebiet Kochel Traumfängerwand Topo free download",
   "link"  : "http://www.klettergebiete.info/html/klettern-kochel-traumfaengerwa.html",
-  "tags"  : ["climbing", "free-time", "kochel", "topo", "pdf", "download", "traumf\u00e4ngerwand"],
+  "tags"  : ["climbing", "free-time", "kochel", "topo", "pdf", "download" ],
   "date"  : "2008-09-10T01:09:06.000Z"
 },
 {
@@ -5369,7 +5371,7 @@
 {
   "title" : "Münchner Verkehrs- und Tarifverbund",
   "link"  : "http://mvv-muenchen.de/de/home/index.html",
-  "tags"  : ["m\u00fcnchen", "tram", "munich", "verkehr", "bus", "ubahn", "tube", "info", "train", "bayern", "bavaria", "auskunft", "fahrplan", "mvv"],
+  "tags"  : ["munich", "tram", "munich", "verkehr", "bus", "ubahn", "tube", "info", "train", "bayern", "bavaria", "auskunft", "fahrplan", "mvv"],
   "date"  : "2008-03-29T15:40:36.000Z"
 },
 {
