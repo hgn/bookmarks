@@ -81,7 +81,7 @@
   "date"  : "2014-08-06T11:49:35.000Z"
 },
 {
-  "title" : "Bitly: Lessons Learned Building a Distributed System that Handles 6 Billion Clicks Month - High Scalability -",
+  "title" : "Bitly: Lessons Learned Building a Distributed System that Handles 6 Billion Clicks Month",
   "link"  : "http://highscalability.com/blog/2014/7/14/bitly-lessons-learned-building-a-distributed-system-that-han.html",
   "tags"  : ["bitly", "scaling", "web", "backend", "optimization", "scale"],
   "date"  : "2014-07-15T00:15:29.000Z"
@@ -195,7 +195,7 @@
   "date"  : "2014-06-14T00:54:36.000Z"
 },
 {
-  "title" : "Open vSwitch - OpenStack Networking Administration Guide  - Grizzly, 2013.1",
+  "title" : "Open vSwitch - OpenStack Networking Administrati",
   "link"  : "http://docs.openstack.org/grizzly/openstack-network/admin/content/under_the_hood_openvswitch.html",
   "tags"  : ["networking", "neutron", "openstack", "quantum", "openvswitch", "vlan", "kvm", "virtualization", "vswitch", "router"],
   "date"  : "2014-06-13T18:14:52.000Z"
@@ -333,7 +333,7 @@
   "date"  : "2014-05-14T14:13:59.000Z"
 },
 {
-  "title" : "Multitasking Management in the Operating System Kernel / Open Source / Kukuruku / Technology Hub",
+  "title" : "Multitasking Management in the Operating System Kernel ",
   "link"  : "http://kukuruku.co/hub/opensource/multitasking-management-in-the-operating-system-kernel",
   "tags"  : ["kernel", "multitasking", "operatingsystems", "thread", "multithreading", "assembler", "flepa", "linux", "threads", "threading"],
   "date"  : "2014-05-14T12:46:42.000Z"
@@ -531,7 +531,7 @@
   "date"  : "2014-01-22T23:41:42.000Z"
 },
 {
-  "title" : "AddressSanitizer - address-sanitizer - AddressSanitizer: a fast memory error detector - AddressSanitizer: a fast memory error detector - Google Project Hosting",
+  "title" : "AddressSanitizer: a fast memory error detector",
   "link"  : "https://code.google.com/p/address-sanitizer/wiki/AddressSanitizer",
   "tags"  : ["memory", "c++", "tools", "programming", "valgrind", "linux", "clang", "llvm", "development", "debug", "gcc", "google"],
   "date"  : "2014-01-12T13:23:29.000Z"
@@ -565,16 +565,6 @@
   "link"  : "http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory",
   "tags"  : [""],
   "date"  : "2013-12-09T21:54:34.000Z"
-},
-{
-  "title" : "Samsung Waschtrockner WD806P4SAWQ/EG, A, 8 kg, 1400 Touren | OTTO",
-  "link"  : "https://www.otto.de/p/samsung-waschtrockner-wd806p4sawq-eg-a-8-kg-1400-touren-383076531/#variationId=383077903-M24",
-  "date"  : "2013-12-03T23:00:44.000Z"
-},
-{
-  "title" : "Siemens Kühl-Gefrierkombination »KG39EAI40/EAL/EAW40«, A+++, 201 cm | OTTO",
-  "link"  : "https://www.otto.de/p/siemens-kuehl-gefrierkombination-kg39eai40-eal-eaw40-aplusplusplus-201-cm-315246336/#variationId=315247508-M24",
-  "date"  : "2013-12-03T22:58:52.000Z"
 },
 {
   "title" : "Position Independent Code and x86-64 libraries",
