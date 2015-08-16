@@ -5,7 +5,7 @@
 {
   "title" : "glibc - vectorized math library",
   "link"  : "https://sourceware.org/glibc/wiki/libmvec",
-  "tags"  : [ "x86_64", "vector", "math", "glibc", "programming" ],
+  "tags"  : [ "x86_64", "vector", "math", "glibc", "programming", "flepa" ],
   "date"  : "2015-08-16T18:00:00.000Z"
 },
 {
