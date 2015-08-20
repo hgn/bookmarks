@@ -3,6 +3,12 @@
 [
 
 {
+  "title" : "Real-time KVM from the ground up",
+  "link"  : "http://events.linuxfoundation.org/sites/events/files/slides/kvmforum2015-realtimekvm.pdf",
+  "tags"  : [ "linux", "realtime", "kvm", "flepa", "performance", "cache", "branch" ],
+  "date"  : "2015-08-20T23:00:00.000Z"
+},
+{
   "title" : "IDF 2015: Intel enthüllt (ein wenig) die Skylake-Architektur",
   "link"  : "http://www.heise.de/newsticker/meldung/IDF-2015-Intel-enthuellt-ein-wenig-die-Skylake-Architektur-2784862.html",
   "tags"  : [ "heise", "intel", "idf", "flepa", "skylake", "cache", "branch" ],
