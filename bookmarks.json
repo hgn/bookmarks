@@ -3,6 +3,18 @@
 [
 
 {
+  "title" : "IDF 2015: Intel enthüllt (ein wenig) die Skylake-Architektur",
+  "link"  : "http://www.heise.de/newsticker/meldung/IDF-2015-Intel-enthuellt-ein-wenig-die-Skylake-Architektur-2784862.html",
+  "tags"  : [ "heise", "intel", "idf", "flepa", "skylake", "cache", "branch" ],
+  "date"  : "2015-08-20T22:00:00.000Z"
+},
+{
+  "title" : "Cache Associativity - Image",
+  "link"  : "https://www.youtube.com/watch?v=Ty6pOVEc3bA",
+  "tags"  : [ "flepa", "cache", "filetype:pdf" ],
+  "date"  : "2015-08-20T22:00:00.000Z"
+},
+{
   "title" : "Situation Normal, Everything Must Change - Simon Wardley Keynote",
   "link"  : "https://www.youtube.com/watch?v=Ty6pOVEc3bA",
   "tags"  : [ "video", "software", "filetype:video", "oreilly", "oscon", "talk", "presentation" ],
