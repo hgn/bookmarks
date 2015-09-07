@@ -3,6 +3,12 @@
 [
 
 {
+  "title" : "Kernel bypass - cloudflare",
+  "link"  : "https://blog.cloudflare.com/kernel-bypass/",
+  "tags"  : [ "linux", "kernel", "networking", "kvm", "dpdk", "sr-iov" ],
+  "date"  : "2015-09-07T22:00:00.000Z"
+},
+{
   "title" : "Real-time KVM from the ground up",
   "link"  : "http://events.linuxfoundation.org/sites/events/files/slides/kvmforum2015-realtimekvm.pdf",
   "tags"  : [ "linux", "realtime", "kvm", "flepa", "performance", "cache", "branch" ],
