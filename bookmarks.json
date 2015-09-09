@@ -3,6 +3,12 @@
 [
 
 {
+  "title" : "Axel-Stoll-Klangbrett",
+  "link"  : "http://sicherheit.reichsinter.net/stoll/",
+  "tags"  : [ "fun", "stoll" ],
+  "date"  : "2015-09-09T22:00:00.000Z"
+},
+{
   "title" : "Kernel bypass - cloudflare",
   "link"  : "https://blog.cloudflare.com/kernel-bypass/",
   "tags"  : [ "linux", "kernel", "networking", "kvm", "dpdk", "sr-iov" ],
