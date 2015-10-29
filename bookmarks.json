@@ -3,6 +3,18 @@
 [
 
 {
+  "title" : "A Journey Through the CPU Pipeline",
+  "link"  : "http://www.gamedev.net/page/resources/_/technical/general-programming/a-journey-through-the-cpu-pipeline-r3115",
+  "tags"  : [ "gaming", "x86", "cpu", "pipeline", "performance", "cache", "branch", "flepa" ],
+  "date"  : "2015-10-29T23:00:00.000Z"
+},
+{
+  "title" : "GCC Jump Threading Optimization",
+  "link"  : "http://beza1e1.tuxen.de/articles/jump_threading.html",
+  "tags"  : [ "linux", "gcc", "jump", "threading", "performance", "cache", "branch", "flepa" ],
+  "date"  : "2015-10-29T23:00:00.000Z"
+},
+{
   "title" : "Axel-Stoll-Klangbrett",
   "link"  : "http://sicherheit.reichsinter.net/stoll/",
   "tags"  : [ "fun", "stoll" ],
