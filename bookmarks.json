@@ -3,6 +3,12 @@
 [
 
 {
+  "title" : "On Queuing, Marking, and Dropping",
+  "link"  : "http://tools.ietf.org/html/draft-ietf-aqm-fq-implementation-05",
+  "tags"  : [ "ietf", "ecn", "marking", "queueing", "aqm", "id" ],
+  "date"  : "2015-11-01T23:00:00.000Z"
+},
+{
   "title" : "A Journey Through the CPU Pipeline",
   "link"  : "http://www.gamedev.net/page/resources/_/technical/general-programming/a-journey-through-the-cpu-pipeline-r3115",
   "tags"  : [ "gaming", "x86", "cpu", "pipeline", "performance", "cache", "branch", "flepa" ],
