@@ -3,6 +3,18 @@
 [
 
 {
+  "title" : "C11 atomic variables and the kernel",
+  "link"  : "https://lwn.net/Articles/586838/",
+  "tags"  : [ "c11" ],
+  "date"  : "2015-11-01T23:00:00.000Z"
+},
+{
+  "title" : "Understanding CPU caching and performance",
+  "link"  : "http://arstechnica.com/gadgets/2002/07/caching/",
+  "tags"  : [ "cache" ],
+  "date"  : "2015-11-01T23:00:00.000Z"
+},
+{
   "title" : "On Queuing, Marking, and Dropping",
   "link"  : "http://tools.ietf.org/html/draft-ietf-aqm-fq-implementation-05",
   "tags"  : [ "ietf", "ecn", "marking", "queueing", "aqm", "id" ],
