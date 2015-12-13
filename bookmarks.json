@@ -1,7 +1,12 @@
 {
 "links" :
 [
-
+{
+  "title" : "Using jemalloc to get to the bottom of a memory leak",
+  "link"  : "https://gdstechnology.blog.gov.uk/2015/12/11/using-jemalloc-to-get-to-the-bottom-of-a-memory-leak/",
+  "tags"  : [ "flepa" ],
+  "date"  : "2015-11-01T23:00:00.000Z"
+},
 {
   "title" : "C11 atomic variables and the kernel",
   "link"  : "https://lwn.net/Articles/586838/",
